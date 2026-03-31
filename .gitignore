@@ -1,0 +1,8 @@
+data/
+run/
+runs/
+weight/
+weights/
+__pycache__/
+*.pyc
+.DS_Store
