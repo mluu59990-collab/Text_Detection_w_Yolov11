@@ -1,0 +1,6 @@
+path: /Users/Documents/DL-Project/Text_Detection/OCR_Project/data/yolo_text_detection
+train: train/images
+val: val/images
+
+nc: 1
+names: ["text"]
